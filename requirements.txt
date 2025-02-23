@@ -1,0 +1,9 @@
+fastapi
+pandas
+numpy
+scikit-learn
+sqlalchemy
+plotly
+uvicorn
+
+C:\Users\s_pat\ETL Pipeline Optimization
