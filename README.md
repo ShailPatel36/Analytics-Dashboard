@@ -54,10 +54,3 @@ This project is a web-based analytics dashboard built using FastAPI and Plotly. 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or suggestions, please contact [your email].
