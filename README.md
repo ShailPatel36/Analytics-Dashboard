@@ -50,7 +50,4 @@ This project is a web-based analytics dashboard built using FastAPI and Plotly. 
 - `main.py`: The main application file containing all endpoints and logic.
 - `requirements.txt`: A list of Python packages required to run the application.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
